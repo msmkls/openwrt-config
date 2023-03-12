@@ -1,3 +1,7 @@
+openwrt配置记录
+
+
+
 # samba4-config
 openwrt-samba4配置文件
 # AdGuardHome-config
