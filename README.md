@@ -1,6 +1,6 @@
 openwrt配置记录
 
-
+![avatar](https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg）
 
 # samba4-config
 openwrt-samba4配置文件
